@@ -1,0 +1,7 @@
+url,label
+http://secure-login-paypal.example.com,1
+http://verify-bank-user.net,1
+http://account-update-warning.com,1
+https://www.google.com,0
+https://www.amazon.in,0
+https://www.microsoft.com,0
